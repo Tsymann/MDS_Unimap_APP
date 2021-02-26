@@ -1,0 +1,7 @@
+{
+  "name": "UnimapApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
